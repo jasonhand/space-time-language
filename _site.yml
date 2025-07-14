@@ -1,0 +1,46 @@
+# Jekyll configuration for GitHub Pages
+# This file is optional but helps with SEO and site optimization
+
+# Site settings
+title: "Vector: Mathematical Transformation"
+description: "Interactive visualization of vector mathematics, exploring the elegant language of space and time through real-time manipulation and animations."
+author: "Vector Visualization Project"
+email: ""
+url: "" # Will be set automatically by GitHub Pages
+baseurl: "" # Will be set automatically by GitHub Pages
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins (GitHub Pages supports these)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/ 

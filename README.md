@@ -68,6 +68,21 @@ If you're curious about this approach, pick a mathematical or scientific concept
 
 The vector visualization we built together is just one example of what's possible when we combine human curiosity with AI capabilities and the power of interactive learning. In a world where information is abundant but understanding is precious, tools like these might just be the key to unlocking deeper comprehension.
 
+## 🚀 Live Demo
+
+**Experience the interactive vector visualization live:** [View the Demo](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME)
+
+The application is deployed on GitHub Pages and ready to use. Simply adjust the sliders to explore vector mathematics in real-time!
+
+## 📦 Deployment
+
+This project is optimized for GitHub Pages deployment. See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed setup instructions.
+
+**Quick Deploy:**
+1. Fork this repository
+2. Enable GitHub Pages in repository settings
+3. Your site will be live at `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME`
+
 After all, sometimes the best way to understand the elegant language of mathematics is to see it spoken fluently, one interaction at a time.
 
 ---
